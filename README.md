@@ -112,8 +112,8 @@ bitelevate-ai-pr-review/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd bitelevate-ai-pr-review
+git clone https://github.com/riyamittal13/BitElevate-AI-PR-Review-Assistant.git
+cd BitElevate-AI-PR-Review-Assistant
 ```
 
 ### 2. Create a Virtual Environment
