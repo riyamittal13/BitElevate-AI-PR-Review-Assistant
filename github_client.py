@@ -1,12 +1,8 @@
 import re
+
 import requests
 
-from config import (
-    GITHUB_API_URL,
-    GITHUB_TOKEN,
-    REQUEST_TIMEOUT,
-    MAX_FILES
-)
+from config import GITHUB_API_URL, GITHUB_TOKEN, MAX_FILES, REQUEST_TIMEOUT
 
 
 class GitHubError(Exception):

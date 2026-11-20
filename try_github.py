@@ -1,4 +1,4 @@
-from github_client import fetch_pr, GitHubError
+from github_client import GitHubError, fetch_pr
 
 url = input("Paste a GitHub Pull Request URL: ")
 
